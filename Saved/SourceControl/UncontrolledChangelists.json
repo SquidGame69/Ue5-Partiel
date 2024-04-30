@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/echameau/Documents/Unreal Projects/JaiUnEspoir/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/echameau/Documents/Unreal Projects/JaiUnEspoir/Content/menu.umap",
+				"C:/Users/echameau/Documents/Unreal Projects/JaiUnEspoir/Content/HUD_MENU.uasset",
+				"C:/Users/echameau/Documents/Unreal Projects/JaiUnEspoir/Content/Menu/HUD_MENU.uasset",
+				"C:/Users/echameau/Documents/Unreal Projects/JaiUnEspoir/Content/Menu/menu.umap",
+				"C:/Users/echameau/Documents/Unreal Projects/JaiUnEspoir/Content/FirstPerson/Blueprints/movingTarget.uasset",
+				"C:/Users/echameau/Documents/Unreal Projects/JaiUnEspoir/Content/FirstPerson/Blueprints/Coin.uasset",
+				"C:/Users/echameau/Documents/Unreal Projects/JaiUnEspoir/Content/FirstPerson/Blueprints/coinWidget.uasset",
+				"C:/Users/echameau/Documents/Unreal Projects/JaiUnEspoir/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"C:/Users/echameau/Documents/Unreal Projects/JaiUnEspoir/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/echameau/Documents/Unreal Projects/JaiUnEspoir/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/DK/82204PIPRJS5PDZO7E6M9F.uasset",
+				"C:/Users/echameau/Documents/Unreal Projects/JaiUnEspoir/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/IV/OZ756N1CQH3VL9O9USJWFO.uasset",
+				"C:/Users/echameau/Documents/Unreal Projects/JaiUnEspoir/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/DT/FZZLGY49NINF4YQCMZ1FS8.uasset",
+				"C:/Users/echameau/Documents/Unreal Projects/JaiUnEspoir/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/TT/C5FQY97ZD083VJ65JMBI1E.uasset",
+				"C:/Users/echameau/Documents/Unreal Projects/JaiUnEspoir/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/W4/MFBASLP9M3PKJQTAGIPQNS.uasset",
+				"C:/Users/echameau/Documents/Unreal Projects/JaiUnEspoir/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/PL/Y4VHSHIRTSIRTRX5PYKOO0.uasset",
+				"C:/Users/echameau/Documents/Unreal Projects/JaiUnEspoir/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/S1/5AHKEW7JJ99Q4NC6GM9I17.uasset"
+			]
+		}
+	]
+}

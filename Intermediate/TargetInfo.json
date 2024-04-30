@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "JaiUnEspoir",
+			"Path": "..\\Source\\JaiUnEspoir.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "JaiUnEspoirEditor",
+			"Path": "..\\Source\\JaiUnEspoirEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
